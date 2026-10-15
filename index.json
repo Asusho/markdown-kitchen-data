@@ -104,6 +104,17 @@
     ]
   },
   {
+    "slug": "pate-a-pizza-napolitaine",
+    "titre": "Pâte à Pizza Napolitaine",
+    "categorie": "Bases & pâtes",
+    "temps": 30,
+    "difficulte": "Moyen",
+    "portions": 3,
+    "tags": [
+      "pizza"
+    ]
+  },
+  {
     "slug": "pate-brisee",
     "titre": "Pâte brisée",
     "categorie": "Bases & pâtes",
