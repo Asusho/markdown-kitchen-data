@@ -1,18 +1,5 @@
 [
   {
-    "slug": "boeuf-bourguignon",
-    "titre": "Bœuf bourguignon",
-    "categorie": "Plats",
-    "temps": 210,
-    "difficulte": "Moyen",
-    "portions": 6,
-    "tags": [
-      "mijoté",
-      "viande",
-      "dimanche"
-    ]
-  },
-  {
     "slug": "cookies-aux-pepites-de-chocolat",
     "titre": "Cookies aux pépites de chocolat",
     "categorie": "Goûters",
