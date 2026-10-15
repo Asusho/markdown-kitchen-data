@@ -22,6 +22,7 @@ Pour la sauce:
 - 1/2 cac | muscade
 - 1 cac | piment d'espelette
 - 1/2 cac | poivre
+- | parmesan pour le dressage
 
 ## Instructions
 
