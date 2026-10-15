@@ -1,11 +1,145 @@
 [
   {
+    "slug": "boeuf-bourguignon",
+    "titre": "Bœuf bourguignon",
+    "categorie": "Plats",
+    "temps": 210,
+    "difficulte": "Moyen",
+    "portions": 6,
+    "tags": [
+      "mijoté",
+      "viande",
+      "dimanche"
+    ]
+  },
+  {
+    "slug": "cookies-aux-pepites-de-chocolat",
+    "titre": "Cookies aux pépites de chocolat",
+    "categorie": "Goûters",
+    "temps": 30,
+    "difficulte": "Facile",
+    "portions": 12,
+    "tags": [
+      "biscuit",
+      "chocolat",
+      "goûter"
+    ]
+  },
+  {
+    "slug": "crepes",
+    "titre": "Crêpes",
+    "categorie": "Desserts",
+    "temps": 40,
+    "difficulte": "Facile",
+    "portions": 4,
+    "tags": [
+      "goûter",
+      "chandeleur",
+      "pâte"
+    ]
+  },
+  {
+    "slug": "gratin-dauphinois",
+    "titre": "Gratin dauphinois",
+    "categorie": "Plats",
+    "temps": 90,
+    "difficulte": "Facile",
+    "portions": 6,
+    "tags": [
+      "pommes de terre",
+      "four",
+      "accompagnement"
+    ]
+  },
+  {
+    "slug": "mousse-au-chocolat",
+    "titre": "Mousse au chocolat",
+    "categorie": "Desserts",
+    "temps": 30,
+    "difficulte": "Facile",
+    "portions": 6,
+    "tags": [
+      "chocolat",
+      "sans cuisson",
+      "classique"
+    ]
+  },
+  {
+    "slug": "pates-a-la-carbonara",
+    "titre": "Pâtes à la carbonara",
+    "categorie": "Plats",
+    "temps": 20,
+    "difficulte": "Moyen",
+    "portions": 4,
+    "tags": [
+      "pâtes",
+      "rapide",
+      "italien"
+    ]
+  },
+  {
+    "slug": "poulet-roti-aux-herbes",
+    "titre": "Poulet rôti aux herbes",
+    "categorie": "Plats",
+    "temps": 100,
+    "difficulte": "Facile",
+    "portions": 4,
+    "tags": [
+      "four",
+      "volaille",
+      "famille"
+    ]
+  },
+  {
+    "slug": "quiche-lorraine",
+    "titre": "Quiche lorraine",
+    "categorie": "Plats",
+    "temps": 55,
+    "difficulte": "Facile",
+    "portions": 6,
+    "tags": [
+      "tarte salée",
+      "lardons",
+      "classique"
+    ]
+  },
+  {
+    "slug": "salade-de-chevre-chaud",
+    "titre": "Salade de chèvre chaud",
+    "categorie": "Entrées",
+    "temps": 20,
+    "difficulte": "Facile",
+    "portions": 2,
+    "tags": [
+      "salade",
+      "rapide",
+      "fromage"
+    ]
+  },
+  {
     "slug": "tarte-au-citron",
     "titre": "Tarte au citron",
     "categorie": "Desserts",
     "temps": 55,
     "difficulte": "Moyen",
     "portions": 6,
-    "tags": ["dessert", "fait maison", "agrumes"]
+    "tags": [
+      "dessert",
+      "fait maison",
+      "agrumes"
+    ]
+  },
+  {
+    "slug": "veloute-de-potiron",
+    "titre": "Velouté de potiron",
+    "categorie": "Entrées",
+    "temps": 40,
+    "difficulte": "Facile",
+    "portions": 4,
+    "tags": [
+      "soupe",
+      "automne",
+      "végétarien"
+    ]
   }
 ]
