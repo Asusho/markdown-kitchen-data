@@ -1,18 +1,5 @@
 [
   {
-    "slug": "crepes",
-    "titre": "Crêpes",
-    "categorie": "Desserts",
-    "temps": 40,
-    "difficulte": "Facile",
-    "portions": 4,
-    "tags": [
-      "goûter",
-      "chandeleur",
-      "pâte"
-    ]
-  },
-  {
     "slug": "gratin-dauphinois",
     "titre": "Gratin dauphinois",
     "categorie": "Plats",
