@@ -89,19 +89,6 @@
     ]
   },
   {
-    "slug": "poulet-roti-aux-herbes",
-    "titre": "Poulet rôti aux herbes",
-    "categorie": "Plats",
-    "temps": 100,
-    "difficulte": "Facile",
-    "portions": 4,
-    "tags": [
-      "four",
-      "volaille",
-      "famille"
-    ]
-  },
-  {
     "slug": "quiche-lorraine",
     "titre": "Quiche lorraine",
     "categorie": "Plats",
