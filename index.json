@@ -39,19 +39,6 @@
     ]
   },
   {
-    "slug": "mousse-au-chocolat",
-    "titre": "Mousse au chocolat",
-    "categorie": "Desserts",
-    "temps": 30,
-    "difficulte": "Facile",
-    "portions": 6,
-    "tags": [
-      "chocolat",
-      "sans cuisson",
-      "classique"
-    ]
-  },
-  {
     "slug": "pain-maison",
     "titre": "Pain maison",
     "categorie": "Pains & viennoiseries",
