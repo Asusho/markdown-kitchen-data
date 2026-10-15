@@ -1,5 +1,17 @@
 [
   {
+    "slug": "gnocchis-butternut",
+    "titre": "Gnocchis butternut",
+    "categorie": "Plats",
+    "temps": 30,
+    "difficulte": "Facile",
+    "portions": 4,
+    "tags": [
+      "courge",
+      "automne"
+    ]
+  },
+  {
     "slug": "pate-a-pizza-napolitaine",
     "titre": "Pâte à Pizza Napolitaine",
     "categorie": "Bases & pâtes",
