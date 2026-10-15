@@ -2,7 +2,7 @@
 titre: Gnocchis butternut
 categorie: Plats
 temps: 30
-difficulte: Facile
+difficulte: Moyen
 portions: 4
 tags: [courge, automne, vegetarien]
 ---
