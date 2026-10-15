@@ -21,5 +21,16 @@
     "tags": [
       "pizza"
     ]
+  },
+  {
+    "slug": "tarte-poire-gorgonzola-et-noix",
+    "titre": "Tarte poire, gorgonzola et noix",
+    "categorie": "Plats",
+    "temps": 45,
+    "difficulte": "Facile",
+    "portions": 4,
+    "tags": [
+      "tarte"
+    ]
   }
 ]
