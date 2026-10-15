@@ -11,19 +11,6 @@
     ]
   },
   {
-    "slug": "pates-a-la-carbonara",
-    "titre": "Pâtes à la carbonara",
-    "categorie": "Plats",
-    "temps": 20,
-    "difficulte": "Moyen",
-    "portions": 4,
-    "tags": [
-      "pâtes",
-      "rapide",
-      "italien"
-    ]
-  },
-  {
     "slug": "quiche-lorraine",
     "titre": "Quiche lorraine",
     "categorie": "Plats",
