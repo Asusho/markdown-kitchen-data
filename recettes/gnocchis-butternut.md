@@ -4,7 +4,7 @@ categorie: Plats
 temps: 30
 difficulte: Facile
 portions: 4
-tags: [courge, automne]
+tags: [courge, automne, vegetarien]
 ---
 
 ## Ingrédients
