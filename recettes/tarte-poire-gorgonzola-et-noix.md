@@ -4,7 +4,7 @@ categorie: Plats
 temps: 45
 difficulte: Facile
 portions: 4
-tags: [tarte]
+tags: [tarte, vegetarien, automne, quiche]
 ---
 
 ## Ingrédients
