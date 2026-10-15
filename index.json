@@ -26,19 +26,6 @@
     ]
   },
   {
-    "slug": "houmous",
-    "titre": "Houmous",
-    "categorie": "Apéro",
-    "temps": 10,
-    "difficulte": "Facile",
-    "portions": 6,
-    "tags": [
-      "apéro",
-      "végétarien",
-      "mixer"
-    ]
-  },
-  {
     "slug": "limonade-maison",
     "titre": "Limonade maison",
     "categorie": "Boissons",
