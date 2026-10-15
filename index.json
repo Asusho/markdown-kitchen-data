@@ -23,6 +23,18 @@
     ]
   },
   {
+    "slug": "pates-cremeuses-au-parmesan-et-butternut-rotie",
+    "titre": "Pâtes crémeuses au parmesan et butternut rôtie",
+    "categorie": "Plats",
+    "temps": 60,
+    "difficulte": "Facile",
+    "portions": 4,
+    "tags": [
+      "dessert",
+      "fait maison"
+    ]
+  },
+  {
     "slug": "tarte-poire-gorgonzola-et-noix",
     "titre": "Tarte poire, gorgonzola et noix",
     "categorie": "Plats",
