@@ -114,19 +114,6 @@
     ]
   },
   {
-    "slug": "salade-de-chevre-chaud",
-    "titre": "Salade de chèvre chaud",
-    "categorie": "Entrées",
-    "temps": 20,
-    "difficulte": "Facile",
-    "portions": 2,
-    "tags": [
-      "salade",
-      "rapide",
-      "fromage"
-    ]
-  },
-  {
     "slug": "veloute-de-potiron",
     "titre": "Velouté de potiron",
     "categorie": "Entrées",
