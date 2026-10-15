@@ -26,7 +26,7 @@ Pour la sauce:
 
 ## Instructions
 
-1. Couper la couge en 2, la vider et l'enfourner avec les pommes de terre à 180°C pendant 45 minutes.
+1. Couper la courge en 2, la vider et l'enfourner avec les pommes de terre à 180°C pendant 45 minutes.
 2. Melanger la farine, les pommes de terre et la courge ecrasés, les jaunes d'oeuf, le sel et la muscade pour former une pate.
 3. Etaler la pate, former des boudins de 1 à 2 cm de large et decouper de la taille d'un ghocchi
 4. Passer les gnocchis sur le dos d'une fourchette pour leur donner une jolie forme
