@@ -9,18 +9,5 @@
     "tags": [
       "pizza"
     ]
-  },
-  {
-    "slug": "vinaigrette-a-la-moutarde",
-    "titre": "Vinaigrette à la moutarde",
-    "categorie": "Sauces & condiments",
-    "temps": 5,
-    "difficulte": "Facile",
-    "portions": 4,
-    "tags": [
-      "salade",
-      "rapide",
-      "base"
-    ]
   }
 ]
