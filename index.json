@@ -11,19 +11,6 @@
     ]
   },
   {
-    "slug": "pate-brisee",
-    "titre": "Pâte brisée",
-    "categorie": "Bases & pâtes",
-    "temps": 40,
-    "difficulte": "Facile",
-    "portions": 8,
-    "tags": [
-      "tarte",
-      "pâte",
-      "base"
-    ]
-  },
-  {
     "slug": "pates-a-la-carbonara",
     "titre": "Pâtes à la carbonara",
     "categorie": "Plats",
