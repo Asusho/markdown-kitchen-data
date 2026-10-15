@@ -1,18 +1,5 @@
 [
   {
-    "slug": "pain-maison",
-    "titre": "Pain maison",
-    "categorie": "Pains & viennoiseries",
-    "temps": 160,
-    "difficulte": "Moyen",
-    "portions": 8,
-    "tags": [
-      "pain",
-      "boulangerie",
-      "levure"
-    ]
-  },
-  {
     "slug": "pate-a-pizza-napolitaine",
     "titre": "Pâte à Pizza Napolitaine",
     "categorie": "Bases & pâtes",
