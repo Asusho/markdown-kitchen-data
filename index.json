@@ -140,19 +140,6 @@
     ]
   },
   {
-    "slug": "tarte-au-citron",
-    "titre": "Tarte au citron",
-    "categorie": "Desserts",
-    "temps": 55,
-    "difficulte": "Moyen",
-    "portions": 6,
-    "tags": [
-      "dessert",
-      "fait maison",
-      "agrumes"
-    ]
-  },
-  {
     "slug": "veloute-de-potiron",
     "titre": "Velouté de potiron",
     "categorie": "Entrées",
