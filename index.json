@@ -11,19 +11,6 @@
     ]
   },
   {
-    "slug": "quiche-lorraine",
-    "titre": "Quiche lorraine",
-    "categorie": "Plats",
-    "temps": 55,
-    "difficulte": "Facile",
-    "portions": 6,
-    "tags": [
-      "tarte salée",
-      "lardons",
-      "classique"
-    ]
-  },
-  {
     "slug": "riz-pilaf",
     "titre": "Riz pilaf",
     "categorie": "Accompagnements",
