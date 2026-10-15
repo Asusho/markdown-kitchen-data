@@ -11,18 +11,6 @@
     ]
   },
   {
-    "slug": "riz-pilaf",
-    "titre": "Riz pilaf",
-    "categorie": "Accompagnements",
-    "temps": 25,
-    "difficulte": "Facile",
-    "portions": 4,
-    "tags": [
-      "riz",
-      "accompagnement"
-    ]
-  },
-  {
     "slug": "veloute-de-potiron",
     "titre": "Velouté de potiron",
     "categorie": "Entrées",
