@@ -1,18 +1,5 @@
 [
   {
-    "slug": "cookies-aux-pepites-de-chocolat",
-    "titre": "Cookies aux pépites de chocolat",
-    "categorie": "Goûters",
-    "temps": 30,
-    "difficulte": "Facile",
-    "portions": 12,
-    "tags": [
-      "biscuit",
-      "chocolat",
-      "goûter"
-    ]
-  },
-  {
     "slug": "crepes",
     "titre": "Crêpes",
     "categorie": "Desserts",
