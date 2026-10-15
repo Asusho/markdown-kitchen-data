@@ -1,11 +1,92 @@
 [
   {
+    "slug": "houmous",
+    "titre": "Houmous",
+    "categorie": "Apéro",
+    "temps": 10,
+    "difficulte": "Facile",
+    "portions": 6,
+    "tags": [
+      "apéro",
+      "végétarien",
+      "mixer"
+    ]
+  },
+  {
+    "slug": "limonade-maison",
+    "titre": "Limonade maison",
+    "categorie": "Boissons",
+    "temps": 15,
+    "difficulte": "Facile",
+    "portions": 6,
+    "tags": [
+      "été",
+      "citron",
+      "rafraîchissant"
+    ]
+  },
+  {
+    "slug": "pain-maison",
+    "titre": "Pain maison",
+    "categorie": "Pains & viennoiseries",
+    "temps": 160,
+    "difficulte": "Moyen",
+    "portions": 8,
+    "tags": [
+      "pain",
+      "boulangerie",
+      "levure"
+    ]
+  },
+  {
+    "slug": "pate-brisee",
+    "titre": "Pâte brisée",
+    "categorie": "Bases & pâtes",
+    "temps": 40,
+    "difficulte": "Facile",
+    "portions": 8,
+    "tags": [
+      "tarte",
+      "pâte",
+      "base"
+    ]
+  },
+  {
+    "slug": "riz-pilaf",
+    "titre": "Riz pilaf",
+    "categorie": "Accompagnements",
+    "temps": 25,
+    "difficulte": "Facile",
+    "portions": 4,
+    "tags": [
+      "riz",
+      "accompagnement"
+    ]
+  },
+  {
     "slug": "tarte-au-citron",
     "titre": "Tarte au citron",
     "categorie": "Desserts",
     "temps": 55,
     "difficulte": "Moyen",
     "portions": 6,
-    "tags": ["dessert", "fait maison", "agrumes"]
+    "tags": [
+      "dessert",
+      "fait maison",
+      "agrumes"
+    ]
+  },
+  {
+    "slug": "vinaigrette-a-la-moutarde",
+    "titre": "Vinaigrette à la moutarde",
+    "categorie": "Sauces & condiments",
+    "temps": 5,
+    "difficulte": "Facile",
+    "portions": 4,
+    "tags": [
+      "salade",
+      "rapide",
+      "base"
+    ]
   }
 ]
