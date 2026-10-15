@@ -1,18 +1,5 @@
 [
   {
-    "slug": "gratin-dauphinois",
-    "titre": "Gratin dauphinois",
-    "categorie": "Plats",
-    "temps": 90,
-    "difficulte": "Facile",
-    "portions": 6,
-    "tags": [
-      "pommes de terre",
-      "four",
-      "accompagnement"
-    ]
-  },
-  {
     "slug": "limonade-maison",
     "titre": "Limonade maison",
     "categorie": "Boissons",
