@@ -37,6 +37,18 @@
     ]
   },
   {
+    "slug": "risotto-figue-gorgonzola",
+    "titre": "Risotto figue & gorgonzola",
+    "categorie": "Plats",
+    "temps": 35,
+    "difficulte": "Moyen",
+    "portions": 2,
+    "tags": [
+      "riz",
+      "vegetarien"
+    ]
+  },
+  {
     "slug": "tarte-poire-gorgonzola-et-noix",
     "titre": "Tarte poire, gorgonzola et noix",
     "categorie": "Plats",
