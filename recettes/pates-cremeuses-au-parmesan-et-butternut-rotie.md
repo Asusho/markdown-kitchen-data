@@ -4,7 +4,7 @@ categorie: Plats
 temps: 60
 difficulte: Facile
 portions: 4
-tags: [dessert, fait maison]
+tags: [automne, vegetarien, sans gluten]
 ---
 
 ## Ingrédients
