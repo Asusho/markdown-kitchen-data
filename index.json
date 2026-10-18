@@ -13,6 +13,18 @@
     ]
   },
   {
+    "slug": "mousse-au-chocolat-aux-blancs-d-oeufs",
+    "titre": "Mousse au chocolat aux blancs d'œufs",
+    "categorie": "Desserts",
+    "temps": 10,
+    "difficulte": "Facile",
+    "portions": 3,
+    "tags": [
+      "dessert",
+      "fait maison"
+    ]
+  },
+  {
     "slug": "pate-a-pizza-napolitaine",
     "titre": "Pâte à Pizza Napolitaine",
     "categorie": "Bases & pâtes",
